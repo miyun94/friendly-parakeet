@@ -7,7 +7,7 @@ A website designed to randomly generate a password based on the criteria inputte
 HTML, CSS, and Javascript
 
 ## Website 
-
+https://miyun94.github.io/friendly-parakeet/
 
 
 ## Contribution
