@@ -9,6 +9,5 @@ HTML, CSS, and Javascript
 ## Website 
 https://miyun94.github.io/friendly-parakeet/
 
-
 ## Contribution
 Made by Ellen
